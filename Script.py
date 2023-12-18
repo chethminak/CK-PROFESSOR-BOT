@@ -7,17 +7,18 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
-    ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
-✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: <a href=https://t.me/iPapkornPro_Bot>iPapkorn Bot</a>
+👨🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/KING_WMP>Chethmina Kavishan</a>
+📡 ꜱᴇʀᴠᴇʀ: <a href=https://www.heroku.com>Heroku</a>
+🗄 ᴅᴀᴛᴀʙᴀꜱᴇ: <a href=https://www.mongodb.com>MongoDB</a>
+📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Python</a>
+📚 ʟɪʙʀᴀʀʏ: <a href=https://pyrogram.org>Pyrogram</a>
+💎 ᴠᴇʀꜱɪᴏɴ: 4.5.0V
+📢 ᴜᴘᴅᴀᴛᴇꜱ: <a href=https://t.me/iPapkornPlus>Click</a></b>"""
    
-    SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+    SOURCE_TXT = """<b>🔮ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/+VhJIV2F3RxljNTNl>Click Here</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+👨🏻‍💻ᴅᴇᴠʟᴏᴘᴇʀ - <a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -220,12 +221,17 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
   
-    IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
+    IMDB_TEMPLATE = """✅ I Found: <code>{query}</code>
 
-🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
-🎭 Gᴇɴʀᴇꜱ: {genres}
-📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
+🏷 Title: <a href={url}>{title}</a>
+🎭 Genres: {genres}
+📆 Year: <a href={url}/releaseinfo>{year}</a>
+🌟 Rating: <a href={url}/ratings>{rating} / 10</a>
+☀️ Languages: {languages}
+📀 RunTime: {runtime} Minutes
+
+🗣 Requested by: {message.from_user.mention}
+©️ Powered by: <b>{message.chat.title}</b>"""
    
   
  
