@@ -24,6 +24,7 @@
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "value": "-1002127056975"
             "required": true
         },
         "ADMINS": {
@@ -48,6 +49,7 @@
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "value": "-1002127056975",
             "required": true
         },           
         "MAX_RIST_BTNS": {
@@ -76,7 +78,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "MKN_BOTZ_DISCUSSION_GROUP",
+            "value": "CK4U2_Chat",
             "required": true
         },
         "IMDB": {
