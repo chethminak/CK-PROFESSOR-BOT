@@ -63,10 +63,7 @@ P_TTI_SHOW_OFF = is_enabled(environ.get('P_TTI_SHOW_OFF', "True"), True)
 PM_IMDB = is_enabled(environ.get('PM_IMDB', "True"), True)
 IMDB = is_enabled(environ.get('IMDB', "True"), True)
 SINGLE_BUTTON = is_enabled(environ.get('SINGLE_BUTTON', "True"), True)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "🎞ɴᴀᴍᴇ: {file_name}
-📥ꜱɪᴢᴇ: {file_size}
-
-ᵖᵒʷᵉʳᵉᵈ ᵇʸ @CK4U2")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "🎞ɴᴀᴍᴇ: {file_name}\n📥ꜱɪᴢᴇ: {file_size}\n\nᵖᵒʷᵉʳᵉᵈ ᵇʸ @CK4U2")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", None)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", script.IMDB_TEMPLATE)
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
