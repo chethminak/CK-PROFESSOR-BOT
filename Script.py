@@ -7,14 +7,14 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
-    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: <a href=https://t.me/iPapkornPro_Bot>iPapkorn Bot</a>
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: <a href=https://t.me/AutoFilterCK_Bot>Auto Filter Bot</a>
 👨🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/KING_WMP>Chethmina Kavishan</a>
 📡 ꜱᴇʀᴠᴇʀ: <a href=https://www.heroku.com>Heroku</a>
 🗄 ᴅᴀᴛᴀʙᴀꜱᴇ: <a href=https://www.mongodb.com>MongoDB</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Python</a>
 📚 ʟɪʙʀᴀʀʏ: <a href=https://pyrogram.org>Pyrogram</a>
 💎 ᴠᴇʀꜱɪᴏɴ: 4.5.0V
-📢 ᴜᴘᴅᴀᴛᴇꜱ: <a href=https://t.me/iPapkornPlus>Click</a></b>"""
+📢 ᴜᴘᴅᴀᴛᴇꜱ: <a href=https://t.me/CK4U2>Click</a></b>"""
    
     SOURCE_TXT = """<b>🔮ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/+VhJIV2F3RxljNTNl>Click Here</a>
 
